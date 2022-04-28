@@ -14,4 +14,4 @@ Features to add:
 * Edit expense entry without removing it.
 
 ### Screenshot
-!![Stills](https://imgur.com/a/oryQ58j)
+!![Stills](./Screenshot.png)
