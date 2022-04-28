@@ -1,6 +1,6 @@
 > Click on the link below to view the App.
 
-# [Expense Tracker]()
+# [Expense Tracker](https://ishi-ca.github.io/expense-tracker/)
 ### Minimal web app to manage and track your expenses easily.
 
 Current Features:
